@@ -1,0 +1,41 @@
+.main__wrapper{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.hero{
+    padding: 15px;
+    background-color: rgba(209, 188, 138, 0.5);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.door__wrapper{
+    padding: 10px 0px;
+}
+
+.door__select,
+.door__input{
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    height: 30px;
+}
+
+.delete__button{
+    padding: 5px;
+    border: none;
+}
+
+.button__icon{
+    height: 15px;
+    width: 15px;
+}
+
+.button__icon svg{
+    height: 15px;
+    width: 15px;
+}
